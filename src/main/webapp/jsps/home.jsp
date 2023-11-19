@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>AcadaLearning- Home Page</title>
-<link href="images/DP black.png" rel="icon">
+<title>Lynjay- Home Page</title>
+<link href="images/Lynjay.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Acada Learning, Calgary, Canada Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance. God Loves you. Everyone will be hired with multiple job offers, Amen</h1>
+<h1 align="center">Welcome to Lynjay Professional Services, Red Deer, Canada Office.</h1>
+<h1 align="center">We are developing and supporting quality Healthcare Solutions to millions of patients.
+	We healthcare Training for Healthcare Practitioners for best performance. COme and join us on the exciting journey.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -30,23 +30,23 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/DP black.png" alt="" width="150">
+		<img src="images/Lynjay.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Acada Learning, 
-		Calgary, Alberta, Canada
-		+1 587 574 2233,
-		info@acadalearning.com
+                LynJay Professional Services, 
+		Red Deer, Alberta, Canada
+		+1 888 888 2233,
+		info@lynjayprofessionalservices.com
 		<br>
-		<a href="mailto:info@acadalearning">Mail to Acada Learning</a>
+		<a href="mailto:info@lynjayprofessionalservices">Mail to Lynjay Professional Services</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Acada Learning - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning</a> </small></p>
+<p align=center>Lynjay Professional Services - Consultant, Family Medicine</p>
+<p align=center><small>Copyrights 2022 by <a href="http://lynjay.com/">Lynjay Professional Services</a> </small></p>
 
 </body>
 </html>
